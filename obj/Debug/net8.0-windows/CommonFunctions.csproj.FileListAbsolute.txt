@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.AssemblyInfo.cs
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\CommonFunctions.exe
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\CommonFunctions.deps.json
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\CommonFunctions.runtimeconfig.json
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\CommonFunctions.dll
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\CommonFunctions.pdb
+C:\Users\user\source\repos\CommonFunctions\bin\Debug\net8.0-windows\log4net.dll
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFu.93BACD18.Up2Date
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.dll
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\refint\CommonFunctions.dll
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.pdb
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\CommonFunctions.genruntimeconfig.cache
+C:\Users\user\source\repos\CommonFunctions\obj\Debug\net8.0-windows\ref\CommonFunctions.dll
