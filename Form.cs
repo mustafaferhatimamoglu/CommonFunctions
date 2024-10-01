@@ -22,6 +22,10 @@ namespace CommonFunctions
             form.Width = 1292;
             form.Height = 1407;
         }
+        public static void This_Load(object? sender, EventArgs e)
+        {
+            CommonFunctions.Form.Setup_Form_Right_2K((System.Windows.Forms.Form)sender);
+        }
     }
 }
 
