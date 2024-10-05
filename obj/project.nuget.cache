@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVvlp4VTg/U=",
+  "dgSpecHash": "2V912V7Xxvw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\Source\\Repos\\mustafaferhatimamoglu\\CommonFunctions\\CommonFunctions.csproj",
+  "projectFilePath": "C:\\Users\\musta\\source\\repos\\mustafaferhatimamoglu\\CommonFunctions\\CommonFunctions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
